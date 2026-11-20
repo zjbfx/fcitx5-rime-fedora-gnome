@@ -1,0 +1,4 @@
+# 默认输出简体中文；方案名用常用字（GNOME 顶栏取首字作为中英状态符号）
+patch:
+  switches/@2/reset: 1
+  schema/name: 明月拼音
